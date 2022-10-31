@@ -1,4 +1,4 @@
-METHOD 1: 
+INSTALL METHOD 1: 
 Install and configure android studio in your machine.
 With git installed, pull the code to your local host.
 Without git installed, download a zip file of the repository to your machine.
@@ -8,5 +8,5 @@ Run the project.
 The app should install successfully
 
 
-METHOD 2:
+INSTALL METHOD 2:
 If you are having trouble setting up the code in android studio, download and install the .apk file using the link below
