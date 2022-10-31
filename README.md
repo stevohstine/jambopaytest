@@ -10,3 +10,4 @@ The app should install successfully
 
 INSTALL METHOD 2:
 If you are having trouble setting up the code in android studio, download and install the .apk file using the link below
+https://github.com/stevohstine/jambopaytest/releases/download/untagged-38559dc101e5659f092d/JamboPay.apk
